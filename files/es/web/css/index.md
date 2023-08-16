@@ -80,6 +80,6 @@ El [libro de cocina de diseño CSS](/es/docs/Web/CSS/Layout_cookbook)[](/es/docs
 
 - [Demos de CSS](/es/docs/Web/Demos_of_open_web_technologies#CSS): obtén un impulso creativo explorando ejemplos de las últimas tecnologías de CSS en acción.
 - Lenguajes web a los que se aplica CSS frecuentemente: [HTML](/es/docs/HTML), [SVG](/es/docs/SVG), [MathML,](/es/docs/Web/MathML) [XHTML](/es/docs/XHTML) y [XML](/es/docs/XML).
-- Tecnologías de Mozilla que hacen un amplio uso de CSS: [extensiones](/es/docs/Extensions) y [temas](/es/Add-ons/Themes) de [Firefox](/es/Firefox) y [Thunderbird](/es/docs/Mozilla/Thunderbird).
-- [Lista de correo de Mozilla](https://lists.mozilla.org/listinfo/dev-tech-layout)
+- Tecnologías de Mozilla que hacen un amplio uso de CSS: [Web Developer Extension de Mozzila](/es/firefox/addon/web-developer) y [temas](/es/Add-ons/Themes) de [Firefox](/es/Firefox) y [Thunderbird](https://www.thunderbird.net/es-MX/).  <!-- temas lead to broken link! -->
+- [Lista de correo de Mozilla](https://lists.mozilla.org/listinfo/dev-tech-layout) <!-- broken link! -->
 - [Preguntas de Stackoverflow sobre CSS](https://stackoverflow.com/questions/tagged/css)
